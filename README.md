@@ -1,8 +1,6 @@
 # old-school-ping-pong
 
-# How to Run
+### How to run
 
-
-''' composer install '''
-
-''' .\vendor\bin\phpunit --bootstrap .\vendor\autoload.php --testdox .\tests '''
+``` composer install ```
+``` .\vendor\bin\phpunit --bootstrap .\vendor\autoload.php --testdox .\tests```
